@@ -1,7 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+tinder-clone/.idea
+tinder-clone/node_modules
+tinder-clone/tinder-clone.iml
+tinder-clone-backend/node_modules
 /.pnp
 .pnp.js
 
