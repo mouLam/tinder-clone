@@ -5,9 +5,8 @@
 /.pnp
 .pnp.js
 
-
 #folders
-/tinder-clone.iml
+./tinder-clone.iml
 
 # testing
 /coverage
