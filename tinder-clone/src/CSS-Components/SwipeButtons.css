@@ -1,0 +1,37 @@
+.swipeButtons {
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.swipeButtons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3);
+}
+
+.swipeButtons_repeat {
+    padding: 3vw !important;
+    color: #c9cba3 !important;
+}
+
+.swipebuttons_left {
+    padding: 3vw !important;
+    color: #ffe1a8 !important;
+}
+
+.swipebuttons_start {
+    padding: 3vw !important;
+    color: #e26d5c !important;
+}
+
+.swipebuttons_right {
+    padding: 3vw !important;
+    color: #723d46 !important;
+}
+
+.swipebuttons_lightning {
+    padding: 3vw !important;
+    color: #00afb9 !important;
+}
